@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author GNSHP
+ *
+ */
+module Fahrkartenautomat {
+}
